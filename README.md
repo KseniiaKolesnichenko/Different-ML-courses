@@ -4,3 +4,4 @@
 - курс МФТИ https://openedu.ru/course/mipt/DATA_AN/
 - курс ВШЭ https://openedu.ru/course/hse/INTRML/
 - курс ОмГТУ https://stepik.org/course/8057/syllabus 
+- курс ITtensive https://www.udemy.com/course/ittensive-python-machine-learning-zero2hero/ 
